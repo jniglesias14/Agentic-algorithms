@@ -73,6 +73,3 @@ No incluyas claves API ni credenciales reales en el repositorio.
 - Evaluar la calidad de las soluciones generadas.
 - Explorar mecanismos de reflexión, búsqueda y mejora iterativa.
 
-## Licencia
-
-La licencia del proyecto se definirá próximamente.
