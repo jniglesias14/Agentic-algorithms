@@ -1,0 +1,8 @@
+parametro,valor
+Depósito,Valladolid
+Objetivo,Minimizar distancia y coste
+Jornada_inicio,08:00
+Jornada_fin,18:00
+Velocidad_media_referencia_kmh,50
+Tiempo_servicio_por_pedido_min,15
+Máximo_vehículos,4

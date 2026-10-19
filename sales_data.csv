@@ -1,0 +1,201 @@
+date,customer,region,product,category,quantity,unit_price,discount,revenue,cost,profit
+2025-01-01,Summit Office Supply,North America,WiFi 6 Router,Networking,14,129.0,0.1,1625.4,1039.83,585.57
+2025-01-03,Pacific Rim Trading,APAC,WiFi 6 Router,Networking,6,125.13,0.1,675.7,438.92,236.78
+2025-01-06,Harbor Point Ltd,APAC,"UltraView 27"" Monitor",Peripherals,34,319.13,0.05,10307.9,7491.55,2816.35
+2025-01-09,Gulf Star Enterprises,Middle East & Africa,SecureVPN License (annual),Software,16,80.58,0,1289.28,298.89,990.39
+2025-01-12,Sao Paulo Tech Hub,LATAM,Analytics Pro License (annual),Software,12,427.5,0,5130.0,1285.03,3844.97
+2025-01-13,Lion City Networks,APAC,HD Webcam 1080p,Peripherals,42,66.93,0.15,2389.4,1413.66,975.74
+2025-01-14,Redwood Consulting,North America,ProBook 14 Laptop,Computers,3,1099.0,0,3297.0,2335.94,961.06
+2025-01-15,Sao Paulo Tech Hub,LATAM,"UltraView 27"" Monitor",Peripherals,30,312.55,0.05,8907.67,6445.78,2461.89
+2025-01-21,Sao Paulo Tech Hub,LATAM,HD Webcam 1080p,Peripherals,21,65.55,0,1376.55,736.73,639.82
+2025-01-22,Alpine Systems AG,Europe,"UltraView 27"" Monitor",Peripherals,23,338.87,0.05,7404.31,4900.49,2503.82
+2025-01-23,Alpine Systems AG,Europe,WiFi 6 Router,Networking,16,132.87,0.15,1807.03,1231.23,575.8
+2025-01-27,BlueSky Logistics,North America,ProBook 14 Laptop,Computers,4,1099.0,0,4396.0,3230.22,1165.78
+2025-01-29,Summit Office Supply,North America,Standing Desk 160cm,Furniture,9,499.0,0.15,3817.35,2889.57,927.78
+2025-01-31,Aztec Office Partners,LATAM,24-Port Switch,Networking,13,246.05,0.1,2878.79,2114.84,763.95
+2025-02-02,Andes Comercial,LATAM,ErgoMouse Wireless,Peripherals,32,47.4,0.05,1440.96,752.18,688.78
+2025-02-02,BlueSky Logistics,North America,WiFi 6 Router,Networking,12,129.0,0.05,1470.6,898.96,571.64
+2025-02-06,Cape Town Ventures,Middle East & Africa,ErgoMouse Wireless,Peripherals,33,50.9,0.05,1595.71,796.26,799.45
+2025-02-09,Berlin Digital GmbH,Europe,WiFi 6 Router,Networking,14,132.87,0.1,1674.16,1065.06,609.1
+2025-02-10,Acme Retail Group,North America,ProBook 14 Laptop,Computers,9,1099.0,0.05,9396.45,6938.12,2458.33
+2025-02-11,Nile Business Group,Middle East & Africa,MechKey Keyboard,Peripherals,34,91.7,0.05,2961.91,1529.33,1432.58
+2025-02-12,Cape Town Ventures,Middle East & Africa,WiFi 6 Router,Networking,9,131.58,0.05,1125.01,673.18,451.83
+2025-02-13,Maple Leaf Systems,North America,MechKey Keyboard,Peripherals,11,89.9,0,988.9,523.87,465.03
+2025-02-13,Acme Retail Group,North America,WiFi 6 Router,Networking,6,129.0,0,774.0,441.67,332.33
+2025-02-14,Andes Comercial,LATAM,Standing Desk 160cm,Furniture,10,474.05,0.05,4503.47,3089.58,1413.89
+2025-02-16,Nordic Workspace AB,Europe,Standing Desk 160cm,Furniture,22,513.97,0.1,10176.61,7149.68,3026.93
+2025-02-19,Northwind Traders,North America,DeskMini PC,Computers,12,649.0,0.1,7009.2,5453.56,1555.64
+2025-02-20,Gulf Star Enterprises,Middle East & Africa,Standing Desk 160cm,Furniture,16,508.98,0.1,7329.31,5166.59,2162.72
+2025-02-25,BlueSky Logistics,North America,ErgoMouse Wireless,Peripherals,10,49.9,0,499.0,236.15,262.85
+2025-02-28,Harbor Point Ltd,APAC,ErgoMouse Wireless,Peripherals,40,48.4,0.1,1742.4,946.18,796.22
+2025-03-02,Gulf Star Enterprises,Middle East & Africa,DeskMini PC,Computers,5,661.98,0,3309.9,2360.73,949.17
+2025-03-10,Berlin Digital GmbH,Europe,ErgoMouse Wireless,Peripherals,27,51.4,0.05,1318.41,666.83,651.58
+2025-03-11,Alpine Systems AG,Europe,WiFi 6 Router,Networking,5,132.87,0,664.35,363.52,300.83
+2025-03-14,Berlin Digital GmbH,Europe,ProBook 14 Laptop,Computers,7,1131.97,0.05,7527.6,5596.77,1930.83
+2025-03-18,Sakura Electronics,APAC,NoiseCancel Headset,Audio,14,144.53,0.05,1922.25,1159.89,762.36
+2025-03-20,Berlin Digital GmbH,Europe,ProBook 14 Laptop,Computers,6,1131.97,0.05,6452.23,4803.81,1648.42
+2025-03-25,Gulf Star Enterprises,Middle East & Africa,SecureVPN License (annual),Software,36,80.58,0.05,2755.84,645.08,2110.76
+2025-03-25,Summit Office Supply,North America,WiFi 6 Router,Networking,16,129.0,0.1,1857.6,1203.46,654.14
+2025-03-28,BlueSky Logistics,North America,SecureVPN License (annual),Software,20,79.0,0,1580.0,359.49,1220.51
+2025-03-30,Pacific Rim Trading,APAC,OfficeCloud Suite (annual),Software,28,116.4,0.2,2607.36,928.1,1679.26
+2025-04-02,Gulf Star Enterprises,Middle East & Africa,Analytics Pro License (annual),Software,16,459.0,0,7344.0,1757.23,5586.77
+2025-04-03,Northwind Traders,North America,ErgoMouse Wireless,Peripherals,18,49.9,0,898.2,437.39,460.81
+2025-04-03,Alpine Systems AG,Europe,MechKey Keyboard,Peripherals,24,92.6,0.1,2000.16,1132.22,867.94
+2025-04-04,Nile Business Group,Middle East & Africa,DeskMini PC,Computers,3,661.98,0,1985.94,1384.53,601.41
+2025-04-06,Alpine Systems AG,Europe,ProBook 16 Laptop,Computers,12,1543.97,0.05,17601.26,12538.42,5062.84
+2025-04-07,Iberia Tech Solutions,Europe,ProBook 16 Laptop,Computers,3,1543.97,0,4631.91,3220.67,1411.24
+2025-04-07,Summit Office Supply,North America,MechKey Keyboard,Peripherals,44,89.9,0.1,3560.04,2065.06,1494.98
+2025-04-07,Pacific Rim Trading,APAC,MechKey Keyboard,Peripherals,19,87.2,0,1656.8,848.12,808.68
+2025-04-08,BlueSky Logistics,North America,Ergonomic Office Chair,Furniture,7,289.0,0,2023.0,1247.92,775.08
+2025-04-08,Harbor Point Ltd,APAC,ProBook 14 Laptop,Computers,4,1066.03,0,4264.12,3126.09,1138.03
+2025-04-09,Harbor Point Ltd,APAC,ConferenceSpeaker Pro,Audio,27,212.43,0.1,5162.05,3638.12,1523.93
+2025-04-10,Harbor Point Ltd,APAC,NoiseCancel Headset,Audio,18,144.53,0.05,2471.46,1517.53,953.93
+2025-04-10,Andes Comercial,LATAM,MechKey Keyboard,Peripherals,16,85.41,0,1366.56,737.11,629.45
+2025-04-10,Nordic Workspace AB,Europe,Standing Desk 160cm,Furniture,8,513.97,0,4111.76,2529.88,1581.88
+2025-04-11,Nordic Workspace AB,Europe,"UltraView 27"" Monitor",Peripherals,13,338.87,0,4405.31,2764.31,1641.0
+2025-04-14,Alpine Systems AG,Europe,WiFi 6 Router,Networking,5,132.87,0.1,597.92,376.87,221.05
+2025-04-17,Cape Town Ventures,Middle East & Africa,DeskMini PC,Computers,6,661.98,0.05,3773.29,2737.14,1036.15
+2025-04-18,Acme Retail Group,North America,DeskMini PC,Computers,6,649.0,0.05,3699.3,2759.72,939.58
+2025-04-18,Cape Town Ventures,Middle East & Africa,ProBook 14 Laptop,Computers,11,1120.98,0.1,11097.7,8609.07,2488.63
+2025-04-24,Madrid Corporate SL,Europe,ErgoMouse Wireless,Peripherals,23,51.4,0.05,1123.09,567.73,555.36
+2025-04-24,Andes Comercial,LATAM,Analytics Pro License (annual),Software,28,427.5,0.05,11371.5,3035.15,8336.35
+2025-04-24,Nordic Workspace AB,Europe,"UltraView 27"" Monitor",Peripherals,26,338.87,0.05,8370.09,5684.03,2686.06
+2025-04-24,Pacific Rim Trading,APAC,SecureVPN License (annual),Software,41,76.63,0.1,2827.65,766.52,2061.13
+2025-04-25,Andes Comercial,LATAM,ProBook 14 Laptop,Computers,6,1044.05,0.05,5951.08,4548.48,1402.6
+2025-04-25,Pampa Distribuciones,LATAM,MechKey Keyboard,Peripherals,43,85.41,0.05,3489.0,1971.15,1517.85
+2025-04-25,Iberia Tech Solutions,Europe,MechKey Keyboard,Peripherals,21,92.6,0,1944.6,955.84,988.76
+2025-04-29,Sakura Electronics,APAC,"UltraView 27"" Monitor",Peripherals,13,319.13,0.15,3526.39,2721.34,805.05
+2025-04-30,Madrid Corporate SL,Europe,DeskMini PC,Computers,3,668.47,0,2005.41,1327.9,677.51
+2025-04-30,Northwind Traders,North America,WiFi 6 Router,Networking,6,129.0,0,774.0,438.09,335.91
+2025-05-05,Lion City Networks,APAC,ConferenceSpeaker Pro,Audio,15,212.43,0.2,2549.16,1926.48,622.68
+2025-05-08,Madrid Corporate SL,Europe,DeskMini PC,Computers,7,668.47,0.05,4445.33,3114.99,1330.34
+2025-05-12,Redwood Consulting,North America,24-Port Switch,Networking,5,259.0,0.05,1230.25,808.24,422.01
+2025-05-13,Pacific Rim Trading,APAC,ErgoMouse Wireless,Peripherals,35,48.4,0.2,1355.2,863.64,491.56
+2025-05-14,Nordic Workspace AB,Europe,ProBook 16 Laptop,Computers,9,1543.97,0.05,13200.94,9654.75,3546.19
+2025-05-14,BlueSky Logistics,North America,Ergonomic Office Chair,Furniture,12,289.0,0.15,2947.8,2099.97,847.83
+2025-05-18,Madrid Corporate SL,Europe,ProBook 14 Laptop,Computers,8,1131.97,0.1,8150.18,6411.99,1738.19
+2025-05-22,BlueSky Logistics,North America,MechKey Keyboard,Peripherals,22,89.9,0.05,1878.91,1014.21,864.7
+2025-05-23,Maple Leaf Systems,North America,MechKey Keyboard,Peripherals,35,89.9,0.05,2989.17,1592.14,1397.03
+2025-05-23,Andes Comercial,LATAM,Ergonomic Office Chair,Furniture,10,274.55,0.05,2608.22,1770.08,838.14
+2025-05-23,Alpine Systems AG,Europe,Standing Desk 160cm,Furniture,17,513.97,0.1,7863.74,5285.76,2577.98
+2025-06-03,Harbor Point Ltd,APAC,NoiseCancel Headset,Audio,17,144.53,0.05,2334.16,1400.41,933.75
+2025-06-04,Alpine Systems AG,Europe,DeskMini PC,Computers,4,668.47,0,2673.88,1808.76,865.12
+2025-06-08,Aztec Office Partners,LATAM,OfficeCloud Suite (annual),Software,19,114.0,0,2166.0,593.4,1572.6
+2025-06-09,Nile Business Group,Middle East & Africa,ErgoMouse Wireless,Peripherals,28,50.9,0.1,1282.68,682.22,600.46
+2025-06-09,Lion City Networks,APAC,MechKey Keyboard,Peripherals,9,87.2,0,784.8,413.3,371.5
+2025-06-14,Nordic Workspace AB,Europe,ErgoMouse Wireless,Peripherals,29,51.4,0.05,1416.07,700.99,715.08
+2025-06-16,Sakura Electronics,APAC,24-Port Switch,Networking,10,251.23,0.05,2386.68,1602.82,783.86
+2025-06-17,Lumière Bureau SA,Europe,"UltraView 27"" Monitor",Peripherals,15,338.87,0,5083.05,3295.96,1787.09
+2025-06-24,Cape Town Ventures,Middle East & Africa,DeskMini PC,Computers,4,661.98,0,2647.92,1857.71,790.21
+2025-06-24,Outback Supplies,APAC,NoiseCancel Headset,Audio,27,144.53,0.1,3512.08,2193.49,1318.59
+2025-06-25,Madrid Corporate SL,Europe,DeskMini PC,Computers,2,668.47,0,1336.94,900.17,436.77
+2025-06-25,Acme Retail Group,North America,HD Webcam 1080p,Peripherals,34,69.0,0.1,2111.4,1146.23,965.17
+2025-06-25,Northwind Traders,North America,NoiseCancel Headset,Audio,13,149.0,0.05,1840.15,1047.78,792.37
+2025-06-27,Acme Retail Group,North America,"UltraView 27"" Monitor",Peripherals,42,329.0,0,13818.0,9012.39,4805.61
+2025-06-30,Summit Office Supply,North America,NoiseCancel Headset,Audio,17,149.0,0.15,2153.05,1444.8,708.25
+2025-07-01,Summit Office Supply,North America,24-Port Switch,Networking,5,259.0,0,1295.0,809.95,485.05
+2025-07-03,Aztec Office Partners,LATAM,DeskMini PC,Computers,7,616.55,0.05,4100.06,3188.15,911.91
+2025-07-05,Sao Paulo Tech Hub,LATAM,24-Port Switch,Networking,7,246.05,0,1722.35,1134.2,588.15
+2025-07-08,Nile Business Group,Middle East & Africa,ProBook 16 Laptop,Computers,9,1528.98,0.05,13072.78,9430.53,3642.25
+2025-07-09,Summit Office Supply,North America,ProBook 16 Laptop,Computers,4,1499.0,0,5996.0,4234.05,1761.95
+2025-07-14,Cape Town Ventures,Middle East & Africa,NoiseCancel Headset,Audio,10,151.98,0.2,1215.84,811.63,404.21
+2025-07-16,Harbor Point Ltd,APAC,ProBook 14 Laptop,Computers,4,1066.03,0,4264.12,3199.21,1064.91
+2025-07-16,Sao Paulo Tech Hub,LATAM,ConferenceSpeaker Pro,Audio,24,208.05,0.1,4493.88,3145.33,1348.55
+2025-07-22,Pampa Distribuciones,LATAM,ProBook 16 Laptop,Computers,5,1424.05,0,7120.25,5202.56,1917.69
+2025-07-28,Lumière Bureau SA,Europe,NoiseCancel Headset,Audio,20,153.47,0.1,2762.46,1641.21,1121.25
+2025-07-30,Harbor Point Ltd,APAC,OfficeCloud Suite (annual),Software,34,116.4,0.05,3759.72,1093.48,2666.24
+2025-07-31,Lion City Networks,APAC,MechKey Keyboard,Peripherals,30,87.2,0.05,2485.2,1409.56,1075.64
+2025-08-04,Aztec Office Partners,LATAM,"UltraView 27"" Monitor",Peripherals,13,312.55,0,4063.15,2874.71,1188.44
+2025-08-08,Sao Paulo Tech Hub,LATAM,NoiseCancel Headset,Audio,5,141.55,0,707.75,421.27,286.48
+2025-08-08,Sao Paulo Tech Hub,LATAM,ProBook 14 Laptop,Computers,9,1044.05,0.05,8926.63,7129.55,1797.08
+2025-08-12,Berlin Digital GmbH,Europe,DeskMini PC,Computers,7,668.47,0.05,4445.33,3199.08,1246.25
+2025-08-12,Summit Office Supply,North America,MechKey Keyboard,Peripherals,23,89.9,0.05,1964.32,1034.01,930.31
+2025-08-13,Redwood Consulting,North America,ErgoMouse Wireless,Peripherals,34,49.9,0.05,1611.77,845.51,766.26
+2025-08-13,Andes Comercial,LATAM,ProBook 14 Laptop,Computers,3,1044.05,0,3132.15,2288.79,843.36
+2025-08-14,Pacific Rim Trading,APAC,Standing Desk 160cm,Furniture,17,484.03,0.15,6994.23,5367.52,1626.71
+2025-08-17,Acme Retail Group,North America,DeskMini PC,Computers,5,649.0,0,3245.0,2306.35,938.65
+2025-08-17,Acme Retail Group,North America,DeskMini PC,Computers,7,649.0,0.05,4315.85,3187.13,1128.72
+2025-08-18,Cape Town Ventures,Middle East & Africa,MechKey Keyboard,Peripherals,10,91.7,0,917.0,471.94,445.06
+2025-08-20,Cape Town Ventures,Middle East & Africa,ProBook 16 Laptop,Computers,7,1528.98,0.05,10167.72,7245.81,2921.91
+2025-08-21,BlueSky Logistics,North America,MechKey Keyboard,Peripherals,14,89.9,0,1258.6,647.15,611.45
+2025-08-26,Cape Town Ventures,Middle East & Africa,"UltraView 27"" Monitor",Peripherals,34,335.58,0.05,10839.23,7337.6,3501.63
+2025-08-28,Lion City Networks,APAC,"UltraView 27"" Monitor",Peripherals,28,319.13,0.05,8488.86,6227.88,2260.98
+2025-08-31,Outback Supplies,APAC,Analytics Pro License (annual),Software,15,436.5,0.1,5892.75,1639.76,4252.99
+2025-09-01,Outback Supplies,APAC,"UltraView 27"" Monitor",Peripherals,6,319.13,0,1914.78,1326.92,587.86
+2025-09-02,Sao Paulo Tech Hub,LATAM,24-Port Switch,Networking,9,246.05,0.15,1882.28,1445.62,436.66
+2025-09-05,Alpine Systems AG,Europe,HD Webcam 1080p,Peripherals,28,71.07,0.05,1890.46,958.78,931.68
+2025-09-08,Iberia Tech Solutions,Europe,24-Port Switch,Networking,6,266.77,0,1600.62,988.72,611.9
+2025-09-08,Sakura Electronics,APAC,ProBook 14 Laptop,Computers,9,1066.03,0.05,9114.56,7208.13,1906.43
+2025-09-11,Pacific Rim Trading,APAC,24-Port Switch,Networking,13,251.23,0.1,2939.39,2039.75,899.64
+2025-09-13,Acme Retail Group,North America,ProBook 16 Laptop,Computers,13,1499.0,0.1,17538.3,13463.41,4074.89
+2025-09-15,Harbor Point Ltd,APAC,ProBook 16 Laptop,Computers,11,1454.03,0,15994.33,11644.82,4349.51
+2025-09-16,Pampa Distribuciones,LATAM,24-Port Switch,Networking,4,246.05,0,984.2,632.67,351.53
+2025-09-17,Aztec Office Partners,LATAM,OfficeCloud Suite (annual),Software,32,114.0,0.05,3465.6,1054.38,2411.22
+2025-09-17,Andes Comercial,LATAM,ErgoMouse Wireless,Peripherals,21,47.4,0,995.4,515.67,479.73
+2025-09-17,Andes Comercial,LATAM,ProBook 14 Laptop,Computers,3,1044.05,0,3132.15,2420.65,711.5
+2025-09-18,Nordic Workspace AB,Europe,Analytics Pro License (annual),Software,24,463.5,0.2,8899.2,2690.88,6208.32
+2025-09-19,BlueSky Logistics,North America,MechKey Keyboard,Peripherals,34,89.9,0.05,2903.77,1522.12,1381.65
+2025-09-21,Acme Retail Group,North America,"UltraView 27"" Monitor",Peripherals,22,329.0,0.15,6152.3,4724.53,1427.77
+2025-09-21,Gulf Star Enterprises,Middle East & Africa,Ergonomic Office Chair,Furniture,7,294.78,0.1,1857.11,1241.39,615.72
+2025-09-23,Nordic Workspace AB,Europe,MechKey Keyboard,Peripherals,29,92.6,0.2,2148.32,1317.7,830.62
+2025-09-26,Berlin Digital GmbH,Europe,ConferenceSpeaker Pro,Audio,23,225.57,0.1,4669.3,2960.5,1708.8
+2025-09-29,Andes Comercial,LATAM,ProBook 16 Laptop,Computers,6,1424.05,0.05,8117.08,6430.79,1686.29
+2025-09-29,Pampa Distribuciones,LATAM,24-Port Switch,Networking,11,246.05,0.05,2571.22,1744.42,826.8
+2025-10-01,Pacific Rim Trading,APAC,Standing Desk 160cm,Furniture,6,484.03,0,2904.18,1880.79,1023.39
+2025-10-02,Lumière Bureau SA,Europe,24-Port Switch,Networking,7,266.77,0,1867.39,1138.01,729.38
+2025-10-07,Berlin Digital GmbH,Europe,ProBook 14 Laptop,Computers,11,1131.97,0.1,11206.5,8907.35,2299.15
+2025-10-08,Aztec Office Partners,LATAM,Analytics Pro License (annual),Software,41,427.5,0.1,15774.75,4619.6,11155.15
+2025-10-14,Nordic Workspace AB,Europe,NoiseCancel Headset,Audio,11,153.47,0,1688.17,914.14,774.03
+2025-10-16,Gulf Star Enterprises,Middle East & Africa,Ergonomic Office Chair,Furniture,15,294.78,0.05,4200.61,2571.38,1629.23
+2025-10-16,BlueSky Logistics,North America,WiFi 6 Router,Networking,11,129.0,0.05,1348.05,814.7,533.35
+2025-10-16,Sao Paulo Tech Hub,LATAM,ErgoMouse Wireless,Peripherals,15,47.4,0,711.0,357.43,353.57
+2025-10-16,Sakura Electronics,APAC,DeskMini PC,Computers,4,629.53,0,2518.12,1889.17,628.95
+2025-10-20,Outback Supplies,APAC,HD Webcam 1080p,Peripherals,19,66.93,0.1,1144.5,680.22,464.28
+2025-10-27,Lumière Bureau SA,Europe,Analytics Pro License (annual),Software,21,463.5,0,9733.5,2263.46,7470.04
+2025-10-28,Nordic Workspace AB,Europe,Standing Desk 160cm,Furniture,15,513.97,0.05,7324.07,4903.17,2420.9
+2025-10-29,Andes Comercial,LATAM,ErgoMouse Wireless,Peripherals,38,47.4,0.15,1531.02,892.53,638.49
+2025-10-31,Madrid Corporate SL,Europe,ConferenceSpeaker Pro,Audio,17,225.57,0.05,3642.96,2270.93,1372.03
+2025-11-02,Madrid Corporate SL,Europe,ProBook 16 Laptop,Computers,4,1543.97,0.15,5249.5,4210.15,1039.35
+2025-11-04,Aztec Office Partners,LATAM,DeskMini PC,Computers,3,616.55,0,1849.65,1410.94,438.71
+2025-11-05,Lumière Bureau SA,Europe,ConferenceSpeaker Pro,Audio,8,225.57,0,1804.56,1030.96,773.6
+2025-11-10,Lion City Networks,APAC,ProBook 16 Laptop,Computers,4,1454.03,0,5816.12,4228.15,1587.97
+2025-11-10,Madrid Corporate SL,Europe,ConferenceSpeaker Pro,Audio,18,225.57,0.05,3857.25,2338.45,1518.8
+2025-11-10,Nile Business Group,Middle East & Africa,SecureVPN License (annual),Software,44,80.58,0.1,3190.97,814.46,2376.51
+2025-11-11,Aztec Office Partners,LATAM,ErgoMouse Wireless,Peripherals,50,47.4,0.05,2251.5,1182.25,1069.25
+2025-11-17,Harbor Point Ltd,APAC,WiFi 6 Router,Networking,14,125.13,0.2,1401.46,1031.56,369.9
+2025-11-17,Pampa Distribuciones,LATAM,ErgoMouse Wireless,Peripherals,23,47.4,0,1090.2,572.11,518.09
+2025-11-18,Harbor Point Ltd,APAC,ProBook 16 Laptop,Computers,4,1454.03,0,5816.12,4401.02,1415.1
+2025-11-20,Acme Retail Group,North America,Ergonomic Office Chair,Furniture,8,289.0,0.15,1965.2,1378.11,587.09
+2025-11-21,Andes Comercial,LATAM,DeskMini PC,Computers,4,616.55,0,2466.2,1807.26,658.94
+2025-11-25,Maple Leaf Systems,North America,Ergonomic Office Chair,Furniture,12,289.0,0.05,3294.6,2181.65,1112.95
+2025-11-25,Maple Leaf Systems,North America,HD Webcam 1080p,Peripherals,39,69.0,0,2691.0,1317.55,1373.45
+2025-11-25,Madrid Corporate SL,Europe,Ergonomic Office Chair,Furniture,8,297.67,0,2381.36,1375.08,1006.28
+2025-11-25,Acme Retail Group,North America,ProBook 16 Laptop,Computers,6,1499.0,0,8994.0,6381.22,2612.78
+2025-11-25,Madrid Corporate SL,Europe,HD Webcam 1080p,Peripherals,14,71.07,0,994.98,500.47,494.51
+2025-11-27,Acme Retail Group,North America,SecureVPN License (annual),Software,46,79.0,0.1,3270.6,820.64,2449.96
+2025-11-28,Pampa Distribuciones,LATAM,24-Port Switch,Networking,4,246.05,0,984.2,638.79,345.41
+2025-11-29,Gulf Star Enterprises,Middle East & Africa,ProBook 16 Laptop,Computers,8,1528.98,0.05,11620.25,8759.4,2860.85
+2025-11-29,Alpine Systems AG,Europe,NoiseCancel Headset,Audio,6,153.47,0,920.82,499.04,421.78
+2025-11-30,Andes Comercial,LATAM,SecureVPN License (annual),Software,23,75.05,0.05,1639.84,410.13,1229.71
+2025-12-01,Outback Supplies,APAC,NoiseCancel Headset,Audio,7,144.53,0,1011.71,591.05,420.66
+2025-12-03,Pampa Distribuciones,LATAM,Standing Desk 160cm,Furniture,12,474.05,0.05,5404.17,3780.4,1623.77
+2025-12-05,Nordic Workspace AB,Europe,MechKey Keyboard,Peripherals,40,92.6,0.1,3333.6,1878.77,1454.83
+2025-12-07,Alpine Systems AG,Europe,MechKey Keyboard,Peripherals,32,92.6,0.05,2815.04,1443.57,1371.47
+2025-12-09,Lion City Networks,APAC,ProBook 14 Laptop,Computers,10,1066.03,0,10660.3,7972.55,2687.75
+2025-12-09,Madrid Corporate SL,Europe,Ergonomic Office Chair,Furniture,12,297.67,0.05,3393.44,2119.55,1273.89
+2025-12-11,Alpine Systems AG,Europe,ConferenceSpeaker Pro,Audio,12,225.57,0.05,2571.5,1615.97,955.53
+2025-12-13,Sakura Electronics,APAC,Standing Desk 160cm,Furniture,14,484.03,0.05,6437.6,4463.05,1974.55
+2025-12-15,Madrid Corporate SL,Europe,ProBook 16 Laptop,Computers,6,1543.97,0.1,8337.44,6269.03,2068.41
+2025-12-15,BlueSky Logistics,North America,ErgoMouse Wireless,Peripherals,28,49.9,0.05,1327.34,678.85,648.49
+2025-12-17,Sakura Electronics,APAC,Standing Desk 160cm,Furniture,22,484.03,0.1,9583.79,7019.74,2564.05
+2025-12-18,Pampa Distribuciones,LATAM,HD Webcam 1080p,Peripherals,30,65.55,0.05,1868.17,1054.19,813.98
+2025-12-19,Northwind Traders,North America,DeskMini PC,Computers,8,649.0,0.05,4932.4,3617.39,1315.01
+2025-12-20,Northwind Traders,North America,DeskMini PC,Computers,4,649.0,0,2596.0,1774.27,821.73
+2025-12-24,Nile Business Group,Middle East & Africa,NoiseCancel Headset,Audio,5,151.98,0,759.9,403.87,356.03
+2025-12-24,Sakura Electronics,APAC,MechKey Keyboard,Peripherals,16,87.2,0,1395.2,730.63,664.57
+2025-12-27,Sao Paulo Tech Hub,LATAM,NoiseCancel Headset,Audio,22,141.55,0.15,2646.99,1756.16,890.83
+2025-12-29,Summit Office Supply,North America,"UltraView 27"" Monitor",Peripherals,32,329.0,0.05,10001.6,6886.49,3115.11
+2025-12-30,Berlin Digital GmbH,Europe,DeskMini PC,Computers,7,668.47,0.05,4445.33,3114.17,1331.16
+2025-12-31,Gulf Star Enterprises,Middle East & Africa,ConferenceSpeaker Pro,Audio,13,223.38,0.05,2758.74,1644.67,1114.07
+2025-12-31,Pacific Rim Trading,APAC,24-Port Switch,Networking,4,251.23,0,1004.92,655.18,349.74
+2025-12-31,Berlin Digital GmbH,Europe,"UltraView 27"" Monitor",Peripherals,15,338.87,0,5083.05,3225.47,1857.58

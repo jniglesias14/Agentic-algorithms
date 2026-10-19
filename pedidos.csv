@@ -1,0 +1,16 @@
+pedido_id,cliente,destino,peso_kg,volumen_l,ventana_horaria,distancia_desde_deposito_km
+1,Cliente 01,Valladolid Centro,8,35,09:00-11:00,4.1
+2,Cliente 02,Laguna de Duero,12,50,09:00-12:00,15.6
+3,Cliente 03,Arroyo de la Encomienda,10,42,10:00-12:00,12.4
+4,Cliente 04,Tordesillas,18,70,11:00-14:00,32.8
+5,Cliente 05,Medina del Campo,22,85,12:00-15:00,54.6
+6,Cliente 06,Valladolid Norte,9,38,09:00-11:30,4.7
+7,Cliente 07,Simancas,14,55,10:00-13:00,17.9
+8,Cliente 08,Cigales,16,63,10:00-13:00,15.1
+9,Cliente 09,Zaratán,11,45,09:30-12:00,11.3
+10,Cliente 10,Íscar,20,78,13:00-16:00,48.9
+11,Cliente 11,Peñafiel,24,92,13:00-17:00,61.5
+12,Cliente 12,Portillo,13,51,11:00-14:00,28.4
+13,Cliente 13,Santovenia de Pisuerga,15,58,09:00-12:00,9.8
+14,Cliente 14,Cabezón de Pisuerga,17,66,10:00-13:00,14.7
+15,Cliente 15,Mojados,19,74,12:00-15:00,32.1

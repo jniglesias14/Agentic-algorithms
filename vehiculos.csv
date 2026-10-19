@@ -1,0 +1,5 @@
+vehiculo_id,tipo,capacidad_peso_kg,capacidad_volumen_l,coste_por_km_eur,velocidad_media_kmh
+V1,Furgoneta,120,650,0.75,55
+V2,Furgoneta,120,650,0.75,55
+V3,Camión ligero,250,1400,0.95,75
+V4,Camión ligero,250,1400,0.95,75

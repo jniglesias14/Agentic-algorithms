@@ -1,0 +1,16 @@
+cliente_id,nombre_cliente,direccion,destino,telefono,prioridad,tipo_cliente
+C001,Cliente 01,Calle Santiago 12,Valladolid Centro,983000001,Alta,Empresa
+C002,Cliente 02,Avenida Madrid 24,Laguna de Duero,983000002,Media,Empresa
+C003,Cliente 03,Calle Real 8,Arroyo de la Encomienda,983000003,Media,Particular
+C004,Cliente 04,Avenida Valladolid 15,Tordesillas,983000004,Alta,Empresa
+C005,Cliente 05,Calle Gamazo 21,Medina del Campo,983000005,Alta,Empresa
+C006,Cliente 06,Calle Fuente el Sol 6,Valladolid Norte,983000006,Media,Particular
+C007,Cliente 07,Calle Arribas 10,Simancas,983000007,Baja,Empresa
+C008,Cliente 08,Avenida Palencia 18,Cigales,983000008,Media,Empresa
+C009,Cliente 09,Calle Real 32,Zaratán,983000009,Alta,Particular
+C010,Cliente 10,Calle Mayor 14,Íscar,983000010,Media,Empresa
+C011,Cliente 11,Avenida España 7,Peñafiel,983000011,Alta,Empresa
+C012,Cliente 12,Calle Iglesia 5,Portillo,983000012,Baja,Particular
+C013,Cliente 13,Calle Real 19,Santovenia de Pisuerga,983000013,Media,Empresa
+C014,Cliente 14,Avenida Castilla 11,Cabezón de Pisuerga,983000014,Media,Empresa
+C015,Cliente 15,Calle Calvario 9,Mojados,983000015,Baja,Particular
