@@ -35,6 +35,19 @@ Tree of Thoughts explora múltiples alternativas de razonamiento en forma de ár
 - Descarte de caminos inválidos o poco prometedores.
 
 
+### 4. Multi-Agent (Router + agentes especializados)
+
+El sistema multiagente reparte cada petición entre varios agentes especializados. Un **router** analiza la intención del usuario y la deriva al agente adecuado. Cada agente tiene su propio prompt, sus herramientas y sus restricciones. El caso de uso es la gestión de una base de datos de pedidos (SQLite).
+
+**Características principales:**
+- Enrutamiento por intención con validación del destino.
+- Separación estricta entre lectura (SQL) y escritura (tools).
+- Consultas SQL validadas: solo `SELECT`, una única sentencia, conexión `mode=ro` y `PRAGMA query_only`.
+- Bucle planner ↔ tools hasta completar la operación.
+- Memoria de conversación por `thread_id` (`MemorySaver`).
+- Observabilidad: llamadas al LLM, latencia, iteraciones y trace de ejecución.
+
+- 
 ## Tecnologías
 
 - **Python** — implementación de los algoritmos.
