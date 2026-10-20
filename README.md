@@ -47,7 +47,7 @@ El sistema multiagente reparte cada petición entre varios agentes especializado
 - Memoria de conversación por `thread_id` (`MemorySaver`).
 - Observabilidad: llamadas al LLM, latencia, iteraciones y trace de ejecución.
 
-- 
+
 ## Tecnologías
 
 - **Python** — implementación de los algoritmos.
